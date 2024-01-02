@@ -1,0 +1,6 @@
+id=adaway_overlayfs_helper
+name=Adaway Overlayfs Helper
+version=0.1
+versionCode=1
+author=Lu5ck
+description=Require Process Monitor Tool and Overlayfs modules by HuskyDG. Set Overlayfs to rw for adaway, ro otherwise.
